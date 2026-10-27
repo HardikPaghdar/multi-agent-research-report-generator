@@ -26,3 +26,10 @@ This version does not browse the web, call LLMs, or autonomously verify facts. I
 
 ## Stack
 Python, FastAPI, Pydantic, pytest. Free/open-source dependencies.
+
+## Explore more
+
+- [Multi-Agent Software Engineer](https://github.com/HardikPaghdar/multi-agent-software-engineer) — human-supervised task planning.
+- [Production RAG Pipeline](https://github.com/HardikPaghdar/production-rag-pipeline) — evidence-grounded retrieval.
+- [AI Agent Evaluation Platform](https://github.com/HardikPaghdar/ai-agent-evaluation-platform) — evaluation of recorded agent runs.
+- [More projects on my portfolio](https://hardikpaghdar.netlify.app/).
